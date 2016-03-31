@@ -2367,7 +2367,11 @@
 				margin-bottom: 2em;
 			}
 
-			.main.style3.primary {
+			.main.style3 {
+    background-image: url("http://cdn1.landscapehdwalls.com/thumbs/1/pink-clouds-reflecting-in-the-ocean-2094-706.jpg");
+    background-color: #0A0434;
+    background-repeat: no-repeat;
+    background-size: 100%
 				background: #fff;
 			}
 
