@@ -2367,14 +2367,21 @@
 				margin-bottom: 2em;
 			}
 
-			.main.style3.primary {
-				background: #fff;
-			}
+			.main.style3 {
+    background-image: url("https://bonexpose.com/wp-content/uploads/2015/06/Contact-Us.jpg");
+    background-color: #0A0434;
+    background-repeat: no-repeat;
+    background-size: 100%;
 
-			.main.style3.secondary {
-				background: #f5f6f7;
-			}
+}
 
+.main.style3 {
+    background-image: url("https://secure.static.tumblr.com/d59e2415a8bb64b9fab435fc603869b4/e6h7yoz/Lm0mzzexk/tumblr_static_pictures-of-sunrisefile-sunrise-thailand-ko-samuijpg---wikimedia-commons-eaabrmfj.jpg");
+    background-color: #0A0434;
+    background-repeat: no-repeat;
+    background-size: 100%;
+
+}
 /* Dark */
 
 	.dark {
