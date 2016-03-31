@@ -2873,7 +2873,7 @@
 /* Intro */
 
 	#intro {
-		background: url("images/overlay.png"), url("https://www.google.com.hk/imgres?imgurl=http://img1.wikia.nocookie.net/__cb20130616023507/love-live/images/a/a9/Opening_Costumes.jpg&imgrefurl=http://forum.gamer.com.tw/A.php?bsn%3D25965&h=868&w=1199&tbnid=cdvE_fNBv_X4kM:&docid=fpTJMQG5mBYvCM&ei=WX38Vq-jKoe_0gTKl7_ADg&tbm=isch&ved=0ahUKEwjvs8f94unLAhWHn5QKHcrLD-gQMwgbKAAwAA");
+		background: url("images/overlay.png"), url("http://i.imgur.com/MDrCDg3.png");
 		background-size: 256px 256px, cover;
 		background-attachment: fixed, fixed;
 		background-position: top left, bottom center;
